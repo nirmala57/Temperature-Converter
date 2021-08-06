@@ -5,8 +5,10 @@ This app( #Android ) able to convertgiven temperature Celsius to Fahrenheit and 
 
 <h4 align="center">Here are some Screenshots</h4>
 
-
-![Screenshot (133)](https://user-images.githubusercontent.com/55014144/128521312-45d31911-2503-4e02-a2cf-dcf347983e44.png)
-![Screenshot (134)](https://user-images.githubusercontent.com/55014144/128521368-6ead7de8-e4a8-4d68-bd0b-53972f8d8285.png)
-![Screenshot (135)](https://user-images.githubusercontent.com/55014144/128521399-7196510e-5725-4ae0-985c-abeb92d64df3.png)
+<p align="center">
+![Screenshot (133)](https://user-images.githubusercontent.com/55014144/128521312-45d31911-2503-4e02-a2cf-dcf347983e44.png)</p>
+<p align="center">
+![Screenshot (134)](https://user-images.githubusercontent.com/55014144/128521368-6ead7de8-e4a8-4d68-bd0b-53972f8d8285.png)</p>
+<p align="center">
+![Screenshot (135)](https://user-images.githubusercontent.com/55014144/128521399-7196510e-5725-4ae0-985c-abeb92d64df3.png)</p>
 
